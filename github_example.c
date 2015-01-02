@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("github example(master_update)\n");
+	printf("branch1\n");
 	return 0;
 }
